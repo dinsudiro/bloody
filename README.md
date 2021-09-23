@@ -28,4 +28,4 @@ a. Dua fitur selanjutnya masih dibutuhkan pengembangan aplikasi sebagai berikut
 
 **Hak Cipta**
 
-Aplikasi terdaftar di Direktorat Jendral Kekayaan Intelektuan Republik Indonesia dengan nama Bank Darah dan nomor pencatatan 000237697, dipegang oleh Achmaddudin Sudiro (@dinstudiro), Like Wattimena, Kholisoh, Risky Kusuma Hartono, Malihah Ramadhani Rum. 
+Aplikasi terdaftar di Direktorat Jendral Kekayaan Intelektuan Republik Indonesia dengan nama Bank Darah dan nomor pencatatan 000237697, dipegang oleh Achmaddudin Sudiro [(@dinsudiro)](https://twitter.com/din_sudiro), Like Wattimena, Kholisoh, Risky Kusuma Hartono, Malihah Ramadhani Rum. 
