@@ -6,7 +6,7 @@ Keterhubungan antar pihak diharapkan dapat menyeimbangi permintaan (demand) dan 
 
 Ada tiga kategori user role yang di aplikasi ini, pertama Provider; yaitu Pengguna (instansi) (user) yang menyediakan pelaksanaan donor darah dari Pendonor, kedua pendonor; yaitu pengguna (user) yang ingin mendonorkan darahnya ke provider, ketiga Penerima Donor; yaitu pengguna (user) yang membutuhkan darah donor dari pendonor.
 
-Untuk live preview dapat mengunjungi tautan berikut: untuk pengguna smartphone melalui tautan [ini](https://dinstudiro.github.io/bloody/#id=crs3uv&p=sign_options&sc=1&c=1), dan untuk pengguna desktop melalui tautan [ini](https://dinstudiro.github.io/bloody/#id=crs3uv&p=sign_options&sc=2&c=1)
+Untuk live preview dapat mengunjungi tautan berikut: untuk pengguna smartphone melalui tautan [ini](https://dinsudiro.github.io/bloody/#id=crs3uv&p=sign_options&sc=1&c=1), dan untuk pengguna desktop melalui tautan [ini](https://dinsudiro.github.io/bloody/#id=crs3uv&p=sign_options&sc=2&c=1)
 
 ![Image of Bloody](https://github.com/dinstudiro/bloody/blob/main/images/Preview/lading_page.jpg)
 
